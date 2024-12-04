@@ -1,3 +1,5 @@
+apt-get install --no-install-recommends -y dpkg-source-gitarchive
+
 pkg=google-guest-agent
 version_orig=20211116.00
 version="$version_orig-6"
