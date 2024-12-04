@@ -1,3 +1,2 @@
-apt-get source google-guest-agent
-apply_patches
+apt_src google-guest-agent
 
